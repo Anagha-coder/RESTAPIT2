@@ -2,7 +2,6 @@ package controller
 
 import (
 	"empsystem/handlers"
-
 	"github.com/gorilla/mux"
 )
 
