@@ -29,17 +29,17 @@ Employee-Management-System
 # Setup
 1. Clone the repository:
 bash
-git clone <repository-url>
+git clone <git@github.com:Anagha-coder/RESTAPIT2.git>
 
-Navigate to the project directory:
+2.Navigate to the project directory:
 bash
 cd <project-folder>
 
-Install dependencies:
+3. Install dependencies:
 bash
 go mod tidy
 
-Run the application:
+4. Run the application:
 bash
 go run main.go
 
