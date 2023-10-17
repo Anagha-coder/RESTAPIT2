@@ -1,0 +1,4 @@
+ID,FirstName,LastName,Email,Password,Role
+1,Anagha,Smith,alice@example.com,mypass,admin
+3,Santosh,Desai,Ved@email.com,password,Manager
+6,Seema,Jog,seema@email.com,,admin
