@@ -39,7 +39,7 @@ You can use tools like Swagger UI to visualize and interact with the APIs.
 
 # Getting Started
 1. Clone the repository:
-git clone https://github.com/yourusername/employeemanagementsystem.git
+git clone git@github.com:Anagha-coder/RESTAPIT2.git
 
 2. cd employeemanagementsystem
 Install dependencies:
